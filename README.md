@@ -48,10 +48,6 @@ git status
 git push origin main        -----> Pushed it to github
 
 
-
-
-
-
 git branch mlops-test   ---> mAkes a new branch of mlops-test
 git checkout mlops-test  ----> Switch to that brach 
 now all basics
@@ -59,6 +55,13 @@ git add .
 git status 
 git commit -m "ANYTHING you have done"
 git push origin mlops-test
+
+
+now after doing all this when u campare and merge on githubyou will need to go to your main branch might be on 
+ur computer or another computer and do dollowing
+
+git checkout main ---->Going to main branch
+git pull ---> any new changes made to ur main branch bu usingg any other branch  then all the updated fileson github will be on ur local files
 
 
 
