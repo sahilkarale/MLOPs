@@ -4,7 +4,7 @@ This is a test repository for the MLOPs session
 
 # updating first time in vs code
 
-
+git init   ------> Do if u aredoing from scratch dont do it if  u have cloned
 git clone <URL> -----> To get a repository from github
 git status      -----> Tells if u have modified something in that repository
 git add .       -----> Makes everything ready  to push to github
