@@ -48,3 +48,17 @@ git status
 git push origin main        -----> Pushed it to github
 
 
+
+
+
+
+git branch mlops-test   ---> mAkes a new branch of mlops-test
+git checkout mlops-test  ----> Switch to that brach 
+now all basics
+git add . 
+git status 
+git commit -m "ANYTHING you have done"
+git push origin mlops-test
+
+
+
